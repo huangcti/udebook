@@ -23,7 +23,7 @@
     * [2.5.3 子操作、服務時間範例](2-wang-ye-cheng-shi-quan-xian-ji-xuan-dan-yuan-jian/2.5-qi-ta/2.5.3-zi-cao-zuo-fu-wu-shi-jian-fan-li.md)
     * [2.5.4 搭配JSF 實作](2-wang-ye-cheng-shi-quan-xian-ji-xuan-dan-yuan-jian/2.5-qi-ta/2.5.4-da-pei-jsf-shi-zuo.md)
 * [3 資料庫存取元件](3-zi-liao-ku-cun-qu-yuan-jian.md)
-* [4 代碼表元件](4-dai-biao-yuan-jian.md)
-* [5 報表輔助元件](biao-zhu-yuan-jian.md)
-* [6 邏輯檔案元件](6-an-yuan-jian.md)
+* [4 代碼表元件](4-dai-ma-biao-yuan-jian.md)
+* [5 報表輔助元件](5-bao-biao-fu-zhu-yuan-jian.md)
+* [6 邏輯檔案元件](6-luo-ji-dang-an-yuan-jian.md)
 
