@@ -1,5 +1,5 @@
 ---
-description: UDE提供以spring framework為基礎發展出的功能模組元件，可供專案引入使用。
+description: UDE提供以spring framework為基礎發展出的功能模組元件，可供各專案引入使用。
 ---
 
 # UDE概觀
