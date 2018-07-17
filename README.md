@@ -1,10 +1,10 @@
 ---
-description: UDE提供以spring framework為基礎發展出的功能模組元件，可供各專案引入使用。
+description: UDE提供以spring framework為基礎，發展出的共用功能元件，可供各專案引入使用。
 ---
 
 # UDE概觀
 
-## UDE功能元件 {#ude核心模組使用說明}
+## UDE功能元件
 
 1. 核心功能元件
 2. 網頁程式權限及選單元件
